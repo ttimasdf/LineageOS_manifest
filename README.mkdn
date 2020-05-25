@@ -1,5 +1,9 @@
-LineageOS
+LineageOS (with CN mirror)
 ===========
+
+Compare 15.1 branch: https://github.com/ttimasdf/LineageOS_manifest/compare/lineage-15.1...LineageOS:lineage-15.1
+
+Compare 16.0 branch: https://github.com/ttimasdf/LineageOS_manifest/compare/lineage-16.0...LineageOS:lineage-16.0
 
 Getting started
 ---------------
